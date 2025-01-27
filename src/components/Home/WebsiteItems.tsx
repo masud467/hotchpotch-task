@@ -6,7 +6,7 @@ function WebsiteItems() {
       <h1 className='text-center text-4xl font-semibold'>Midland helps you
       build beautiful website</h1>
       <div className='flex lg:flex-row flex-col justify-center mt-10 gap-10'>
-        <div className='space-y-6 w-[300px]'>
+        <div className='space-y-6 w-[300px] p-3'>
          <div className=''>
          <button className="btn btn-outline w-full flex justify-start text-white   hover:bg-gradient-to-r hover:from-[#5C7FFF] hover:to-[#CB5CFF] active:bg-gradient-to-r active:from-[#0035F5] active:to-[#A600F5]">
          Blog Headlines
