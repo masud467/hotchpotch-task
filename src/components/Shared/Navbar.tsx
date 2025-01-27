@@ -56,7 +56,7 @@ const Navbar = () => {
           ))}
         </div>
         <div className="navbar-end">
-          <div className="flex items-center gap-5">
+          <div className="flex items-center lg:gap-5 gap-1">
            
           <button
                 
